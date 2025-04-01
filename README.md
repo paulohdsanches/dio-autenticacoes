@@ -1,1 +1,1 @@
-# dio-autenticacoes
+# dio-autenticacoes - Repositório Curso Git e Github
